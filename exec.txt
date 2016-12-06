@@ -1,0 +1,1 @@
+1 git reset はgit add を取り消すのにも使える。git add の取り消しはアンステージという。
